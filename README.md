@@ -1,5 +1,5 @@
 <h2>
-  <img src="./cover.svg" alt="Bitcent"/>
+  <img src=".public/cover.svg" alt="Bitcent"/>
 </h2>
 
 # BitCent
@@ -8,7 +8,6 @@ Bitcent é uma aplicação web para controle de finanças pessoais com landing p
 
 O projeto foi desenvolvido durante a **[Semana Tranformação.DEV](https://transformacao.dev/)** realizada pelo 
 **[Cod3r](https://www.cod3r.com.br/)**!
-
 
 
 ## 🛠 Tecnologias

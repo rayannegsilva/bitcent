@@ -9,7 +9,7 @@ Bitcent é uma aplicação web para controle de finanças pessoais com landing p
 O projeto foi desenvolvido durante a **[Semana Tranformação.DEV](https://transformacao.dev/)** realizada pelo 
 **[Cod3r](https://www.cod3r.com.br/)**!
 
-Você pode encontrar acessar o projeto rodando clicando nesse link: **[Bitcent](bitcent-chi.vercel.app )**
+Você pode encontrar acessar o projeto rodando clicando nesse link: **[Bitcent](https://bitcent-chi.vercel.app )**
 
 
 ## 🛠 Tecnologias

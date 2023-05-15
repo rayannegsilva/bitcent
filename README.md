@@ -1,5 +1,5 @@
 <h2>
-  <img src=".public/cover.svg" alt="Bitcent"/>
+  <img src=".github/cover.svg" alt="Bitcent"/>
 </h2>
 
 # BitCent
